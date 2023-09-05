@@ -1,4 +1,4 @@
-# MyBike landing page
+# Ride-Heaven landing page
 
 **Implement a landing page according to this** [layout](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
 
@@ -8,4 +8,4 @@
  - JavaScript
  - BEM
 
-[PREVIEW LINK](https://illia-kots.github.io/my-bike_landing/)
+[PREVIEW LINK](https://illia-kots.github.io/ride-heaven/)
